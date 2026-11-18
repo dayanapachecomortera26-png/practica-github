@@ -1,14 +1,14 @@
 <?php
-// pagina con boton que no sirve bien
+
 ?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>mi pagina fea xd :v</title>
+    <title>Reposteria Anhelo Dulce</title>
     <style>
         body {
-            background-color: white;
+            background-color: #fce4ec;
             color: black;
         }
         .boton {
@@ -26,12 +26,12 @@
 </head>
 <body>
 
-    <h1>hola este es mi sitio</h1>
+    <h1>holaaaa </h1>
 
     <div>
-        <h2>cosas importantes</h2>
-        <p>esta pagina es un ejemplo de como se ve algo que no esta bien hecho</p>
-        <p>aqui puedes poner informacion de tu negocio horarios ubicacion y lo que se te ocurra</p>
+        <h2>cosas importantes de la reposeria</h2>
+        
+        <p>Los mejores postres y pasteles, hechos con amor y los mejores ingredientes para endulzar tus momentos en familia. </p>
         <ul>
             <li>horario: lunes a viernes 9am a 6pm</li>
             <li>donde estamos: San Juan Bautista Tuxtepec Oaxaca</li>
@@ -40,7 +40,7 @@
     </div>
 
     <br>
-    <a href="siguiente.pagina" class="boton">siguiente</a>
+    <a href="vision.php" class="boton">siguiente</a>
 
 </body>
 </html>
